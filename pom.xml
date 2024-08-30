@@ -31,7 +31,7 @@
 								<environment>DEV</environment>
 								<region>us-east-1</region>
 								<workers>1</workers>
-								<workerType>MICRO</workerType>
+								<workerType>MEDIUM</workerType>
 								<properties>
 									<env>DEV</env>
 									<enc.key>${enc.key}</enc.key>
