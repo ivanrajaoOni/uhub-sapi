@@ -1,0 +1,10 @@
+http:
+  port: "8081"
+
+database:
+  uhub:
+    host: "oracle-182264-0.cloudclusters.net"
+    port: "10015"
+    user: "uhubdevuser"
+    password: "password"
+    instance: "XE"
